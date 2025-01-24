@@ -13,6 +13,13 @@ rofi - App launcher
 nano - Code editor
 qBittorrent - Torrent
 
+Games:
+PCSX2
+dolphin-emu
+RPCS3
+steam
+discord
+
 Color scheme - Catpuccin Frappe:
 xfce4-terminal
 kicad
