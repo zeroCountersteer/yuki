@@ -10,7 +10,6 @@ thunar - File manager
 
 Utility:
 rofi - App launcher
-waybar - Bar, sway - dependency
 nano - Code editor
 qBittorrent - Torrent
 
