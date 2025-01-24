@@ -12,6 +12,7 @@ Utility:
 rofi - App launcher
 nano - Code editor
 qBittorrent - Torrent
+dunst - Notifications
 
 Games:
 PCSX2
