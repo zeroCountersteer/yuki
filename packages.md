@@ -9,6 +9,7 @@ firefox - Browser
 thunar - File manager
 
 Utility:
+SDDM - DE/WM Launcher
 rofi - App launcher
 nano - Code editor
 qBittorrent - Torrent
@@ -23,7 +24,7 @@ discord
 
 Color scheme - Catpuccin Frappe:
 xfce4-terminal
-kicad
+kicad /Latte
 hyprland
 firefox - stylus
 qbittorrent
